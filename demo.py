@@ -1,5 +1,6 @@
-def add_numbers(a, b)
+def add_numbers(a, b):
+    """This function adds two numbers and prints the result.\n\n    Parameters:\n    a (int): The first number to add\n    b (int): The second number to add\n    """
     result = a + b
-    print("Sum is: " result)
+    print("Sum is: " + str(result))
 
-add_numbers(5, 10
+add_numbers(5, 10)
