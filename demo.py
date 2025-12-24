@@ -6,7 +6,7 @@ def add_numbers(a, b):
         a (int): The first number to add
         b (int): The second number to add
     """
-    result = a + b
-    print("Sum is: " + str(result))
+    result = a + b;
+    print("Sum is: " + str(result)
 
 add_numbers(5, 10)
